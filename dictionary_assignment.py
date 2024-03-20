@@ -104,3 +104,5 @@ hotel_rooms = {
     "101": {"status": "available", "customer": ""},
     "102": {"status": "booked", "customer": "John Doe"}
 }
+
+# did this work
